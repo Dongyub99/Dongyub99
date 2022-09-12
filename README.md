@@ -8,3 +8,4 @@
 Dongyub99/Dongyub99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[vim 단축키.pdf](https://github.com/Dongyub99/AI-/files/9545780/vim.pdf)
